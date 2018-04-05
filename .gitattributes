@@ -1,0 +1,9 @@
+*.c		text eol=lf
+*.lua		text eol=lf
+*.h		text eol=lf
+*.yml		text eol=lf
+lakefile	text eol=lf
+.gitattributes	text eol=lf
+doc/COPYRIGHT	text eol=lf
+*.md		text eol=lf
+src/build.mak	text eol=crlf
